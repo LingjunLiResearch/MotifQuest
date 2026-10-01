@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://github.com/lingjunli-research/MotifQuest/blob/main/TOC.png">
+<img src="https://github.com/LingjunLiResearch/MotifQuest/blob/main/TOC.png">
 </div>
 
 # MotifQuest
 
 MotifQuest is a program produced by the Lingjun Li Lab at the University of Wisconsin-Madison for identification of conserved endogenous peptide motifs.
 
-MotifQuest is available in stand-alone code here. It is also available with a GUI in [EndoGenius](https://github.com/lingjunli-research/EndoGenius-v2.0/blob/main/README.md?plain=1)
+MotifQuest is available in stand-alone code here. It is also available with a GUI in [EndoGenius](https://github.com/LingjunLiResearch/EndoGenius-v2.0/blob/main/README.md?plain=1)
 
 
 #### Key references
